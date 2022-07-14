@@ -36,10 +36,12 @@ This App is based on <a href="https://github.com/tesseract-ocr/tesseract/blob/ma
 | ![HOME](fastlane/metadata/android/en-US/images/phoneScreenshots/1.jpg?raw=true "home") | ![RESULT](fastlane/metadata/android/en-US/images/phoneScreenshots/2.jpg?raw=true "RESULT") | ![SETTINGS](fastlane/metadata/android/en-US/images/phoneScreenshots/7.jpg?raw=true "SETTINGS") | ![LANGUAGES](fastlane/metadata/android/en-US/images/phoneScreenshots/8.jpg?raw=true "LANGUAGES") |
 
 ## <font color="#2467d6"><b>Code Contributors </b></font>
-
+References
 * Shubham Tyagi
 * New UI is designed by [Hannes Gehrold](https://github.com/h4n23s)
 * [urlordjames](https://github.com/urlordjames)
+Built by:
+Anurag Mukherjee
 
 
 ## <font color="#2467d6"><b>[Icon ](https://github.com/SubhamTyagi/android-ocr/issues/15) </b></font>
