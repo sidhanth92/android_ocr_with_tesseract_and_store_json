@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="you_are_not_connected_to_internet">انت لست متصلا بالانترنت</string>
+    <string name="yes">نعم</string>
+    <string name="downloading_language">تحميل معلومات اللغة…</string>
+    <string name="language">اللغة</string>
+    <string name="generic_image_description">صورة</string>
+    <string name="copy_to_clipboard">نسخ الى الحافظة</string>
+    <string name="refresh">تحديث</string>
+    <string name="downloading">جار التحميل…</string>
+    <string name="share">مشاركة</string>
+    <string name="persist_data_summary">حفظ الصوة والنص عند إغلاق التطبيق</string>
+    <string name="no">لا</string>
+    <string name="source_code">الكود المصدري</string>
+    <string name="persist_data_title">حفظ البيانات</string>
+    <string name="show_last_result">عرض النتيجة الاخيرة</string>
+    <string name="converting_image">يتم تحويل الصورة الى نص…</string>
+    <string name="text_goes_here">النص يكتب هنا</string>
+    <string name="copied_to_clipboard">تم نسخه الى الحافظة</string>
+    <string name="no_results">لم يتم التعرف على اي نص.تعذر التعرف على أي نص.</string>
+    <string name="settings">الاعدادات</string>
+    <string name="others_settings">الاعدادات الاخرى</string>
+    <string name="gray_scale_detail">الصورة قبل المعالجة للحصول على دقة محسنة</string>
+    <string name="language_not_exists">لا توجد بيانات التدريب للغة %s ؛ لا يمكن القيام بالتعرف</string>
+    <string name="download_language_data_please_wait">تنزيل ملفات بيانات OCR. يرجى الانتظار …</string>
+    <string name="use_gray_scale_image_for_ocr">صورة ما قبل المعالجة</string>
+    <string name="installing_please_wait">تثبيت ملفات بيانات OCR. يرجى الانتظار …</string>
+    <string name="draw_box_summary">التطبيق سوف يرسم نص على الصورة</string>
+    <string name="percentage_downloaded">% من الإجمالي:</string>
+    <string name="tess_language_title">حدد اللعة ل Tesseract</string>
+    <string name="segmentation_mode">نمط تجزئةالصفحة</string>
+    <string name="draw_box_title">ارسم نصًا على الصورة</string>
+    <string name="training_data_missing">بيانات التدريب مفقودة!</string>
+</resources>
