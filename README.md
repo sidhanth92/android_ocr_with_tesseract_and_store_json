@@ -41,8 +41,7 @@ References
 * New UI is designed by [Hannes Gehrold](https://github.com/h4n23s)
 ## <font color="#2467d6"><b>Code Contributors </b></font>
 
-Built by:
-
+Data extraction:
 
 Anurag Mukherjee
 
