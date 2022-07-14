@@ -39,8 +39,11 @@ This App is based on <a href="https://github.com/tesseract-ocr/tesseract/blob/ma
 References
 * Shubham Tyagi
 * New UI is designed by [Hannes Gehrold](https://github.com/h4n23s)
-* [urlordjames](https://github.com/urlordjames)
+## <font color="#2467d6"><b>Code Contributors </b></font>
+
 Built by:
+
+
 Anurag Mukherjee
 
 
